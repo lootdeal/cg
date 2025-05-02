@@ -132,3 +132,5 @@ int main(int argc, char** argv) {
     return 0;
 }
 
+//g++ points.cpp -lGL -lGLU -lg
+//./a.out
